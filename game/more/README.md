@@ -5,9 +5,9 @@ HTML 5 小游戏
 
 1、对整个目录查找“放松竞技小游戏”，全部替换成您自己的游戏网站名称
 
-2、对整个目录查找“weixin.aitboy.cn/game/more”,然后全部替换成你的游戏访问地址（注意不要用http://开头）
+2、对整个目录查找“https://lxp521125.github.io/game/more”,然后全部替换成你的游戏访问地址（注意不要用http://开头）
 
-3、 对整个目录查找“http://mp.weixin.qq.com/s?__biz=MzAxMTAzMzg4Nw==&mid=201177010&idx=1&sn=70245fd06f458dabf02b543beae64527#rd”，然后全部替换成你自己的关注链接
+3、 对整个目录查找“https://mp.weixin.qq.com/mp/homepage?__biz=MjM5ODMyOTU5Mg==&hid=1&sn=d15e4b84b4dff275f852c3d9a14774a8”，然后全部替换成你自己的关注链接
 
 4、对整个目录查找“juhuiyouxi”，然后替换成你自己的微信号。
 

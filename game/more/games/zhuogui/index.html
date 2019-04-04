@@ -120,25 +120,25 @@
           document.addEventListener('WeixinJSBridgeReady', function onBridgeReady() {
                 WeixinJSBridge.on('menu:share:appmessage', function(argv) {
                     WeixinJSBridge.invoke('sendAppMessage', {
-                        "img_url": "http://weixin.aitboy.cn/game/more/games/zhuogui/logo.png",
-                        "link": "http://weixin.aitboy.cn/game/more/games/zhuogui/index.html",
+                        "img_url": "http://https://lxp521125.github.io/game/more/games/zhuogui/logo.png",
+                        "link": "http://https://lxp521125.github.io/game/more/games/zhuogui/index.html",
                         "desc": "鬼节到了，我的手机见鬼了！！胆大的快来帮忙抓鬼啊！！",
                         "title": title
                     }, function(res) {
-                        document.location.href = "http://weixin.aitboy.cn/game/more/";
+                        document.location.href = "http://https://lxp521125.github.io/game/more/";
                     })
                 });
 
                 WeixinJSBridge.on('menu:share:timeline', function(argv) {
                     WeixinJSBridge.invoke('shareTimeline', {
-                        "img_url": "http://weixin.aitboy.cn/game/more/games/zhuogui/logo.png",
+                        "img_url": "http://https://lxp521125.github.io/game/more/games/zhuogui/logo.png",
                         "img_width": "120",
                         "img_height": "120",
-                        "link": "http://weixin.aitboy.cn/game/more/games/zhuogui/index.html",
+                        "link": "http://https://lxp521125.github.io/game/more/games/zhuogui/index.html",
                         "desc": "鬼节到了，我的手机见鬼了！！胆大的快来帮忙抓鬼啊！！",
                         "title": title
                     }, function(res) {
-                        document.location.href = "http://weixin.aitboy.cn/game/more/";
+                        document.location.href = "http://https://lxp521125.github.io/game/more/";
                     });
                 });
             }, false);

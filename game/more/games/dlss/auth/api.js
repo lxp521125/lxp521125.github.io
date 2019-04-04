@@ -11,8 +11,8 @@ Auth9G = function(gameid) {
 	this.identify = function(){};
 	this.ready = function(){};
 	this.readyDone = false;
-	this.baseUrl = "http://weixin.aitboy.cn/game/more";
-	this.gameUrl = "http://weixin.aitboy.cn/game/more";
+	this.baseUrl = "http://https://lxp521125.github.io/game/more";
+	this.gameUrl = "http://https://lxp521125.github.io/game/more";
 	this.init();
 }
 

@@ -6,15 +6,15 @@
 
 var AD = ["res/ad02.png"];
 
-var ADLink = ["http://weixin.aitboy.cn/game/more"];
+var ADLink = ["http://https://lxp521125.github.io/game/more"];
 
 var androidAD = ["res/ad01.png", "res/ad03.png"];
 
-var androidADLink = ["http://weixin.aitboy.cn/game/more","http://weixin.aitboy.cn/game/more"];
+var androidADLink = ["http://https://lxp521125.github.io/game/more","http://https://lxp521125.github.io/game/more"];
 
 var iosAD = ["res/ad01.png", "res/ad03.png"];
 
-var iosADLink = ["http://weixin.aitboy.cn/game/more","http://weixin.aitboy.cn/game/more"];
+var iosADLink = ["http://https://lxp521125.github.io/game/more","http://https://lxp521125.github.io/game/more"];
 
 var adPush = function(b) {
 

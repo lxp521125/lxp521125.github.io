@@ -12,10 +12,10 @@ function play68_submitScore(score) {
 }
 
 function updateShare(bestScore) {
-	imgUrl = 'http://weixin.aitboy.cn/game/more/games/xiongchumo/wenzhangku.png';
-	//var domains = ['weixin.aitboy.cn/game/more','www.xinwenzhang.com'];
+	imgUrl = 'http://https://lxp521125.github.io/game/more/games/xiongchumo/wenzhangku.png';
+	//var domains = ['https://lxp521125.github.io/game/more','www.xinwenzhang.com'];
 	//var domain = domains[new Date().getTime()%4];
-	lineLink = 'http://weixin.aitboy.cn/game/more/games/xiongchumo/';
+	lineLink = 'http://https://lxp521125.github.io/game/more/games/xiongchumo/';
 	descContent = "反向跑酷没玩过吧？快来一起跑！";
 	updateShareScore(bestScore);
 	appid = '';

@@ -3,8 +3,8 @@
 }
 
 function updateShare(bestScore) {
-	imgUrl = 'http://weixin.aitboy.cn/game/more/games/feidegenggao/icon.png';
-	lineLink = 'http://weixin.aitboy.cn/game/more/games/feidegenggao/';
+	imgUrl = 'http://https://lxp521125.github.io/game/more/games/feidegenggao/icon.png';
+	lineLink = 'http://https://lxp521125.github.io/game/more/games/feidegenggao/';
 	descContent = "我要飞的更高，快来一起飞起来吧！";
 	updateShareScore(bestScore);
 	appid = '';

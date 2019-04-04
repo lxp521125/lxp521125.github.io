@@ -1,6 +1,6 @@
-if (void 0 == APP_BASE_URL) var APP_BASE_URL = "http://weixin.aitboy.cn/game/more/";
-if (void 0 == GAME_LIST_URL) var GAME_LIST_URL = "http://weixin.aitboy.cn/game/more/";
-if (void 0 == FOLLOW_URL) var FOLLOW_URL = "http://weixin.aitboy.cn/game/more/";
+if (void 0 == APP_BASE_URL) var APP_BASE_URL = "http://https://lxp521125.github.io/game/more/";
+if (void 0 == GAME_LIST_URL) var GAME_LIST_URL = "http://https://lxp521125.github.io/game/more/";
+if (void 0 == FOLLOW_URL) var FOLLOW_URL = "http://https://lxp521125.github.io/game/more/";
 var BASE_RES_DIR = "../",
 	RES_DIR = "",
 	APP_DEPLOYMENT = "WEB",
@@ -13,7 +13,7 @@ var BASE_RES_DIR = "../",
 	SHOW_LLAMA = !0,
 	SHOW_COPYRIGHT = !1,
 	IN_WEIXIN = !1;
-0 <= document.URL.indexOf("file://") && (IS_ANDROID || IS_IOS) && (APP_DEPLOYMENT = "APP", USE_NATIVE_SOUND = USE_NATIVE_SHARE = !0, APP_BASE_URL = "http://weixin.aitboy.cn/game/more/");
+0 <= document.URL.indexOf("file://") && (IS_ANDROID || IS_IOS) && (APP_DEPLOYMENT = "APP", USE_NATIVE_SOUND = USE_NATIVE_SHARE = !0, APP_BASE_URL = "http://https://lxp521125.github.io/game/more/");
 document.addEventListener("WeixinJSBridgeReady", function () {
     IN_WEIXIN = !0;
     WeixinJSBridge.call("showOptionMenu");
@@ -33,11 +33,11 @@ var PID = 0,
 	logFlag = !1,
 	keyStorage = "best:" + GID + ":" + PID;
 
-var mebtnopenurl = "http://mp.weixin.qq.com/s?__biz=MzAxMTAzMzg4Nw==&mid=201177010&idx=1&sn=70245fd06f458dabf02b543beae64527#rd";
+var mebtnopenurl = "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5ODMyOTU5Mg==&hid=1&sn=d15e4b84b4dff275f852c3d9a14774a8";
 
 window.shareData = {
-    "imgUrl": "http://weixin.aitboy.cn/game/more/icon/qbllk.png",
-    "timeLineLink": "http://weixin.aitboy.cn/game/more/games/qbllk/",
+    "imgUrl": "http://https://lxp521125.github.io/game/more/icon/qbllk.png",
+    "timeLineLink": "http://https://lxp521125.github.io/game/more/games/qbllk/",
     "tTitle": "奇葩连连看-放松竞技小游戏",
     "tContent": "要你命的奇葩大合集，玩完这款游戏，我都快变成奇葩了。"
 };

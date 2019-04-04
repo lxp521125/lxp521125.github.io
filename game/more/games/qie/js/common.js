@@ -6,15 +6,15 @@ var btGame;
 	// 所以，统一通过函数返回链接吧~，能更加灵活的更改逻辑了~
 
 	bt.URL = {
-		root: "http://weixin.aitboy.cn/game/more"
+		root: "http://https://lxp521125.github.io/game/more"
 		,getMoreGame: function(){
 			// 点击更多
 			bt.dc("more");
 
-			return "http://weixin.aitboy.cn/game/more";
+			return "http://https://lxp521125.github.io/game/more";
 		}
 		,getConcern: function(){
-			return "http://mp.weixin.qq.com/s?__biz=MzAxMTAzMzg4Nw==&mid=201177010&idx=1&sn=70245fd06f458dabf02b543beae64527#rd";
+			return "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5ODMyOTU5Mg==&hid=1&sn=d15e4b84b4dff275f852c3d9a14774a8";
 		}
 		,appId: "" // gh_f1ed7b95f79e
 	};

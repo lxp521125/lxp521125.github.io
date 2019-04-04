@@ -2298,7 +2298,7 @@
                 }
 
                 if(e.buttonLayout.released("moregame")) {
-                    location.href="http://weixin.aitboy.cn/game/more";
+                    location.href="http://https://lxp521125.github.io/game/more";
                 }
 
                 if(e.buttonLayout.released("difficulty2")) {

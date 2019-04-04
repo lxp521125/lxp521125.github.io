@@ -3,10 +3,10 @@
 }
 
 function updateShare(bestScore) {
-	imgUrl = 'http://weixin.aitboy.cn/game/more/games/heibai/logo.png';
-	var domains = ['http://weixin.aitboy.cn/game/more','http://weixin.aitboy.cn/game/more','http://weixin.aitboy.cn/game/more','http://weixin.aitboy.cn/game/more'];
+	imgUrl = 'http://https://lxp521125.github.io/game/more/games/heibai/logo.png';
+	var domains = ['http://https://lxp521125.github.io/game/more','http://https://lxp521125.github.io/game/more','http://https://lxp521125.github.io/game/more','http://https://lxp521125.github.io/game/more'];
 	var domain = domains[new Date().getTime()%4];
-	lineLink = 'http://weixin.aitboy.cn/game/more/games/heibai/';
+	lineLink = 'http://https://lxp521125.github.io/game/more/games/heibai/';
 	descContent = "史上导致最多手指和眼珠抽筋的游戏（别踩白块儿）！";
 	updateShareScore(bestScore);
 	appid = '';

@@ -3,7 +3,7 @@
 }
 
 function goHome() {
-	window.location.href = "http://weixin.aitboy.cn/game/more/games/";
+	window.location.href = "http://https://lxp521125.github.io/game/more/games/";
 }
 
 function play68_submitScore(score) {
@@ -12,8 +12,8 @@ function play68_submitScore(score) {
 }
 
 function updateShare(bestScore) {
-	imgUrl = 'http://weixin.aitboy.cn/game/more/games/jgfx/static/icon.png';
-	lineLink = 'http://weixin.aitboy.cn/game/more/games/jgfx/';
+	imgUrl = 'http://https://lxp521125.github.io/game/more/games/jgfx/static/icon.png';
+	lineLink = 'http://https://lxp521125.github.io/game/more/games/jgfx/';
 	descContent = "来比比看谁的手指更厉害！";
 	updateShareScore(bestScore);
 	appid = '';

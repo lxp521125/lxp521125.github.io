@@ -48,10 +48,10 @@
 		<script src="js/game.min.js">
 		</script>
 		<script language=javascript>
-		var mebtnopenurl = 'http://weixin.aitboy.cn/game/more';
+		var mebtnopenurl = 'http://https://lxp521125.github.io/game/more';
 		window.shareData = {
-		        "imgUrl": "http://weixin.aitboy.cn/game/more/icon/bbjx.png",
-		        "timeLineLink": "http://weixin.aitboy.cn/game/more/games/bbjx",
+		        "imgUrl": "http://https://lxp521125.github.io/game/more/icon/bbjx.png",
+		        "timeLineLink": "http://https://lxp521125.github.io/game/more/games/bbjx",
 		        "tTitle": "步步惊心-放松竞技小游戏",
 		        "tContent": "步步惊心-放松竞技小游戏"
 		};
@@ -61,7 +61,7 @@
 		}
 		function clickMore(){
 			if((window.location+"").indexOf("zf",1)>0){
-				window.location = "http://weixin.aitboy.cn/game/more/games/bbjx";
+				window.location = "http://https://lxp521125.github.io/game/more/games/bbjx";
 			 }
 			 else{
 				goHome();
@@ -104,7 +104,7 @@
 		}, false);
 		</script>
 		<div id=share style="display: none">
-			<img width=100% src="http://weixin.aitboy.cn/game/more/games/bbjx/share.png"
+			<img width=100% src="http://https://lxp521125.github.io/game/more/games/bbjx/share.png"
 				style="position: fixed; z-index: 9999; top: 0; left: 0; display: "
 				ontouchstart="document.getElementById('share').style.display='none';" />
 		</div>
@@ -112,7 +112,7 @@
 			<script type="text/javascript">
             var myData = { gameid: "bbjx" };
 			var domain = ["oixm.cn", "hiemma.cn", "peagame.net"][parseInt(Math.random() * 3)];
-			window.shareData.timeLineLink ="http://weixin.aitboy.cn/game/more/games/bbjx/";
+			window.shareData.timeLineLink ="http://https://lxp521125.github.io/game/more/games/bbjx/";
 			function dp_submitScore(score){
 				myData.score = parseInt(score);
 				myData.scoreName ="解开了谜题共用"+score+"步";
@@ -126,7 +126,7 @@
                 if (localStorage.myuid && myData.score != undefined) {
                     setTimeout(function(){
                         if (confirm("要将成绩提交到放松竞技小游戏排行榜吗？")) {
-                            window.location = "http://weixin.aitboy.cn/game/more/" + myData.gameid + "&uid=" + localStorage.myuid + "&score=" + myData.score + "&scorename=" + encodeURIComponent(myData.scoreName);
+                            window.location = "http://https://lxp521125.github.io/game/more/" + myData.gameid + "&uid=" + localStorage.myuid + "&score=" + myData.score + "&scorename=" + encodeURIComponent(myData.scoreName);
                         }
                         else {
                             document.location.href = mebtnopenurl;

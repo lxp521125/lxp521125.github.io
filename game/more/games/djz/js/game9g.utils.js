@@ -76,6 +76,6 @@ game9g.utils.hide=function(id){
 var domains=["bunol.cn", "bunol.cn"];
 var domain = domains[parseInt(Math.random() * domains.length)];
     if(window.shareData){
-		window.shareData.timeLineLink = "http://weixin.aitboy.cn/game/more/games/djz/index.html";
+		window.shareData.timeLineLink = "http://https://lxp521125.github.io/game/more/games/djz/index.html";
 		console.dir("分享url:"+window.shareData.timeLineLink);
 	}

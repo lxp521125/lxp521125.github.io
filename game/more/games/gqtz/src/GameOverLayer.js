@@ -57,7 +57,7 @@ var GameOverLayer = cc.Layer.extend
             try {
                 _hmt.push(['_trackEvent', 'escape', 'click', 'more', '1']);
             } catch(e) {}
-            window.open("http://weixin.aitboy.cn/game/more");
+            window.open("http://https://lxp521125.github.io/game/more");
         });
         more.setPosition(0,-50);
 

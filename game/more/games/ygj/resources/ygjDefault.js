@@ -938,11 +938,11 @@ function pageHeight() {
 function pageWidth() {
     return $(window).width();}
 
-var mebtnopenurl = 'http://weixin.aitboy.cn/game/more';
-var rankurl = 'http://weixin.aitboy.cn/game/more/games/ygj/index.html';
+var mebtnopenurl = 'http://https://lxp521125.github.io/game/more';
+var rankurl = 'http://https://lxp521125.github.io/game/more/games/ygj/index.html';
 window.shareData = {
-    "imgUrl": "http://weixin.aitboy.cn/game/more/games/ygj/resources/logo_small.jpg",
-    "timeLineLink": "http://weixin.aitboy.cn/game/more/games/ygj/index.html",
+    "imgUrl": "http://https://lxp521125.github.io/game/more/games/ygj/resources/logo_small.jpg",
+    "timeLineLink": "http://https://lxp521125.github.io/game/more/games/ygj/index.html",
     "tTitle": "一根筋玩到底-viying001",
     "tContent": "你今天一根筋了吗？根本停不下来啊！"
 };
@@ -952,7 +952,7 @@ function goHome() {
 }
 function clickMore(){
 			if((window.location+"").indexOf("zf",1)>0){
-				window.location = "http://weixin.aitboy.cn/game/more/games/ygj/index.html";
+				window.location = "http://https://lxp521125.github.io/game/more/games/ygj/index.html";
 			 }
 			 else{
 				goHome();

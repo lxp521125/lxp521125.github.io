@@ -155,7 +155,7 @@ var CookieUtil = {
 };
 var $iframe=null;
 function crossAjax(config){
-    document.domain='weixin.aitboy.cn/game/more'; //域名
+    document.domain='https://lxp521125.github.io/game/more'; //域名
     if(!$iframe){
         $iframe= $j('<iframe/>',{id:'crossDomain',style:'display:none;',src:server.DuopaoBlankURL}).appendTo('body').load(function(){
             $iframe.win=$j(this)[0].contentWindow;

@@ -525,9 +525,9 @@ var btGame;
         }
     };
     window.a = c;
-    var mebtnopenurl = 'http://weixin.aitboy.cn/game/more';
+    var mebtnopenurl = 'http://https://lxp521125.github.io/game/more';
 var thegameurl ="";
-var guanzhuurl ="http://mp.weixin.qq.com/s?__biz=MzAxMTAzMzg4Nw==&mid=201177010&idx=1&sn=70245fd06f458dabf02b543beae64527#rd";
+var guanzhuurl ="https://mp.weixin.qq.com/mp/homepage?__biz=MjM5ODMyOTU5Mg==&hid=1&sn=d15e4b84b4dff275f852c3d9a14774a8";
     c.src = "http://mmbiz.qpic.cn/mmbiz/2zpp2iaH4HWGibTGlgZ0T24BEhuvDE3KFIOib0Bicg8yfs64RHzul0BvfriaEJyI65UjLYmhop9YRyak37Oib0Laju1A/640";
     var onBridgeReady = function() {
         WeixinJSBridge.on("menu:share:appmessage", function(d) {

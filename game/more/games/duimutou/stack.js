@@ -341,8 +341,8 @@ tit=stscore;
 var tite="";
 	var DFW = {
 		appId: "",
-		TLImg: "http://weixin.aitboy.cn/game/more/games/duimutou/icon.png",
-		url: "http://weixin.aitboy.cn/game/more/games/duimutou/",
+		TLImg: "http://https://lxp521125.github.io/game/more/games/duimutou/icon.png",
+		url: "http://https://lxp521125.github.io/game/more/games/duimutou/",
 		title: "堆木头，简单的不得了，好玩的停不下",
 		desc: "玩法简单，但是玩的是技巧，反应，没有最高只有更高，来挑战下--关注放松竞技小游戏:juhuiyouxi"
 	};
@@ -383,8 +383,8 @@ var tite="";
 /*
 updateShare(stscore);
 function updateShare(stscore) {
-	imgUrl = 'http://weixin.aitboy.cn/game/more/games/duimutou/i/icon.png';
-	lineLink = 'http://weixin.aitboy.cn/game/more/games/duimutou';
+	imgUrl = 'http://https://lxp521125.github.io/game/more/games/duimutou/i/icon.png';
+	lineLink = 'http://https://lxp521125.github.io/game/more/games/duimutou';
 	descContent = "玩法简单，但是玩的是技巧，反应，没有最高只有更高，来挑战下！";
 	updateShareScore(stscore);
 	appid = '';

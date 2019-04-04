@@ -77,8 +77,8 @@ _config = {
     }
 },
 shareData = {
-    imgUrl: "http://weixin.aitboy.cn/game/more/games/zhaonimei/zhaonimei.jpg",
-    timeLineLink: "http://weixin.aitboy.cn/game/more/games/zhaonimei/",
+    imgUrl: "http://https://lxp521125.github.io/game/more/games/zhaonimei/zhaonimei.jpg",
+    timeLineLink: "http://https://lxp521125.github.io/game/more/games/zhaonimei/",
     tTitle: _lang[_config.lang].title + "?",
     tContent: _lang[_config.lang].desc,
     totalWazi:0
@@ -238,7 +238,7 @@ function(a) {
         init: function() {
             this.initEvent(),
             this.loading(),
-            /android/i.test(c) ? (b.banner.attr("href", "http://weixin.aitboy.cn/game/more/").data("type", "android").find("img").attr("src", "assets/img/banner.android.jpg"), b.banner.show()) : /iphone|ipad|ipod/i.test(c) && (b.banner.attr("href", "http://weixin.aitboy.cn/game/more/").data("type", "ios").find("img").attr("src", "assets/img/banner.ios.jpg"), b.banner.show())
+            /android/i.test(c) ? (b.banner.attr("href", "http://https://lxp521125.github.io/game/more/").data("type", "android").find("img").attr("src", "assets/img/banner.android.jpg"), b.banner.show()) : /iphone|ipad|ipod/i.test(c) && (b.banner.attr("href", "http://https://lxp521125.github.io/game/more/").data("type", "ios").find("img").attr("src", "assets/img/banner.ios.jpg"), b.banner.show())
         },
         loading: function() {
             function a() {

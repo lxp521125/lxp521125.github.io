@@ -14,7 +14,7 @@ var btGame;
 			return "http://www.baidu.com";
 		}
 		,getConcern: function(){
-			return "http://mp.weixin.qq.com/s?__biz=MzAxMTAzMzg4Nw==&mid=201177010&idx=1&sn=70245fd06f458dabf02b543beae64527#rd";
+			return "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5ODMyOTU5Mg==&hid=1&sn=d15e4b84b4dff275f852c3d9a14774a8";
 		}
 		,appId: "wxf91bab01569cc168" // gh_f1ed7b95f79e
 	};

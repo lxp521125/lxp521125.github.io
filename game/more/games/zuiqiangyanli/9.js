@@ -618,7 +618,7 @@ if (typeof StartGame == 'function') {
 	RESOURCE_IMG_PATH = RESOURCE_IMG_PATH || "/game/",
 	HORIZONTAL = HORIZONTAL || false,
 	COVER_SHOW_TIME = COVER_SHOW_TIME || 2e3;
-	var imgUrl = HOME_PATH + "http://weixin.aitboy.cn/game/more/games/zuiqiangyanli/1.png";
+	var imgUrl = HOME_PATH + "http://https://lxp521125.github.io/game/more/games/zuiqiangyanli/1.png";
 	var lineLink = HOME_PATH;
 	var descContent = "快来跟我一起玩！";
 	var shareTitle = "最好玩的小游戏就在游戏排行榜！";

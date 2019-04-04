@@ -1,13 +1,13 @@
 var btGame;~
 function(bt) {
 	bt.URL = {
-		root: "http://weixin.aitboy.cn/game/more",
+		root: "http://https://lxp521125.github.io/game/more",
 		getMoreGame: function() {
 			bt.dc("more");
-			return "http://weixin.aitboy.cn/game/more"
+			return "http://https://lxp521125.github.io/game/more"
 		},
 		getConcern: function() {
-			return "http://weixin.aitboy.cn/game/more"
+			return "http://https://lxp521125.github.io/game/more"
 		},
 	};
 	bt.getGameId = function() {
